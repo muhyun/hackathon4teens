@@ -22,11 +22,11 @@ Sensor → micro:bit → Raspberry Pi → Web Dashboard
 
 #### Example Sensor Data
 
-Temperature (°C) / Humidity (%)
-Gas concentration (0–1023)
-Light intensity
-Sound level
-Motion/PIR detection
+- Temperature (°C) / Humidity (%)
+- Gas concentration (0–1023)
+- Light intensity
+- Sound level
+- Motion/PIR detection
 
 #### Role of Raspberry Pi
 
