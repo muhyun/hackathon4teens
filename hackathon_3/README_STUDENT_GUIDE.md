@@ -1,5 +1,5 @@
 
-# 🧪 Middle School Student Guide
+# 🧪 Student Guide
 ## Real-Time Lab Monitoring with micro:bit
 
 ### Goal
