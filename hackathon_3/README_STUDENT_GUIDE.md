@@ -20,6 +20,22 @@ Sensor → micro:bit → Raspberry Pi → Web Dashboard
 - micro:bit: Sending numbers to Raspberry Pi
 - Raspberry Pi: Collecting numbers and displaying them
 
+#### Example Sensor Data
+
+Temperature (°C) / Humidity (%)
+Gas concentration (0–1023)
+Light intensity
+Sound level
+Motion/PIR detection
+
+#### Role of Raspberry Pi
+
+- Receive sensor data
+- [optional] Store data (JSON/CSV)
+- Run a real-time Flask web server
+- Serve dashboard UI
+- Implement alert logic when thresholds are exceeded
+
 ---
 ## Steps
 1. Connect sensors to micro:bit (VCC, GND, Signal)
