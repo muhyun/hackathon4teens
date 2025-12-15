@@ -79,3 +79,7 @@ pip install flask pyserial
 ```bash
 python app.py
 ```
+
+### How to use senssor
+
+https://wiki.keyestudio.com/KS0487_Keyestudio_37_in_1_Sensor_Kit_upgrade_v3.0#Project_23:_Water_Level
